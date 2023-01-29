@@ -2,7 +2,7 @@
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Zafer Berkay
 
-<font color="pink"> 🐱‍🏍 I'm Electrical and Electronic Engineer but I find myself in software. </font>
+<font color="pink"> 🐱‍🏍 I'm Electrical and Electronics Engineering student but I find myself in software. </font>
 </br>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
