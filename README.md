@@ -13,7 +13,7 @@
 #### 📬 Connect with me:
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaferberkaycaliskan/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:zaferberkay1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-zaferberkay1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zaferberkay1@gmail.com)](mailto:kanna6501@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@zaferberkay1)
 
 </br>
